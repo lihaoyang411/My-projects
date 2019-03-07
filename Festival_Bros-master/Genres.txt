@@ -1,0 +1,16 @@
+Genres:
+Alternative
+Blues
+Christian
+Classical
+Country
+EDM
+Folk
+Hip Hop
+Indie
+Jazz
+Pop
+Rap
+Reggae
+Rock
+R&B

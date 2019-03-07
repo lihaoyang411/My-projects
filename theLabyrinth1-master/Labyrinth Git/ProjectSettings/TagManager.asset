@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Key
+  - Weapon
+  - Weapon2
+  - weapon
+  - Skeleton_Waypoint
+  - Minotaur_Waypoint
+  - Spider_Waypoint
+  - PlayerWaypoint
+  - Heal
+  - Waypoint
+  - Black_Spider_Waypoint
+  - Skeleton_Waypoint_2
+  - Spider_Waypoint_2
+  - Spider_Waypoint_3
+  - MysteryLight
+  - Weapon3
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Item
+  - DeadEnemy
+  - Player
+  - Enemy
+  - Item
+  - DeadEnemy
+  - Player
+  - Enemy
+  - Item
+  - DeadEnemy
+  - Player
+  - Enemy
+  - Item
+  - DeadEnemy
+  - Player
+  - Enemy
+  - Item
+  - DeadEnemy
+  - Player
+  - Enemy
+  - Item
+  - DeadEnemy
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
