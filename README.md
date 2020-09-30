@@ -1,2 +1,2 @@
 # My-projects
-Under Graduate Web Projects
+Undergraduate Web Projects
